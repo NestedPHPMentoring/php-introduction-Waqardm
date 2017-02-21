@@ -11,3 +11,24 @@ I came up once and hollered!
 I came up twice and cried!
 If that water hadn\'t a-been so cold
 I might\'ve sunk and died.');
+
+// task 002
+echo('<br>');
+$firstName = "Waqar";
+$age = "32";
+$height = "1.88";
+
+print_r($firstName . $age . $height);
+
+echo('<br>');
+
+var_dump($firstName);
+var_dump($age);
+var_dump($height);
+
+$ageInteger = (int)$age;
+$heightDouble = (double)$height;
+
+print_r($ageInteger . '&' . $heightDouble);echo('<br>');
+var_dump($ageInteger);echo('<br>');
+var_dump($heightDouble);echo('<br>');
