@@ -32,3 +32,50 @@ $heightDouble = (double)$height;
 print_r($ageInteger . '&' . $heightDouble);echo('<br>');
 var_dump($ageInteger);echo('<br>');
 var_dump($heightDouble);echo('<br>');
+
+
+//task 003
+
+for ($i=0; $i++;) {
+        $line = readline(["" . ","]);
+        readline_add_history($line);
+        print_r(array_count_values($line));
+}
+
+//task 004
+
+for ($i=0; $i++;) {
+        $line = readline(["" . ","]);
+        readline_add_history($line);
+        print_r(array_reverse($line));
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
